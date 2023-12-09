@@ -1,17 +1,26 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Ética no Desenvolvimento de Inteligências Artificiais ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Video sobre:"Ética no Desenvolvimento de Inteligências Artificiais"
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT;
+D-ID;
+VEDD.IO
+RUN WAY
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro usei o chat GPT para roteiro e separação das falas;
+Depois usei D-ID para gerar a voz e o Avatar com o roteiro;
+Em seguida usei RUN WAY para remover e adicionar outro fundo para o Video;
+E por fim usei VEE.IO para gerar automaticamente as legendes desse video;
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A combinação desses fatores gerou um video educativo e funcional sobre Ética no Desenvolvimento das A.I;
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A tecnologia é Neutra oq torna ela boa ou ruim é quem a controla;
 
+## VEJA COMO FICOU: 
+https://www.youtube.com/watch?v=kdE3CUA_2r0
